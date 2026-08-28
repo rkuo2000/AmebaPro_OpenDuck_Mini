@@ -13,4 +13,4 @@
 
 ## AmebaPro2
 ### [Hub8735-Ultra](https://github.com/ideashatch/HUB-8735)
-<img width="50%" src="https://github.com/rkuo2000/AmebaPro_OpenDuck_Mini/blob/main/pics/Hub8735_Ultra.png?raw=true">
+<img width="25%" src="https://github.com/rkuo2000/AmebaPro_OpenDuck_Mini/blob/main/pics/Hub8735_Ultra.png?raw=true">
